@@ -1,0 +1,5 @@
+Name: M.Rupesh venkata sai kumar
+Course: BCA
+Year: 3rd year
+Hackthon has proved us to learn,about a lot of things which helped us to develop our knowledge and skills in the technical field. Github is a repostiry or file which used to store the data 
+large data and can be easily accessed by everyone at anytime.
